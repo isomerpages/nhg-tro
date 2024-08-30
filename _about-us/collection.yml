@@ -2,4 +2,4 @@ collections:
   about-us:
     output: true
     order:
-      - abtgri.md
+      - NHG Group Research & Innovation (GRI).md

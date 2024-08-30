@@ -8,5 +8,5 @@ notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
 sections:
   - hero:
       title: NHG Translational Research Office (TRO)
-      background: /images/hero-banner.png
+      background: /images/Hero Banner/hero-banner.png
 ---

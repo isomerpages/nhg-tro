@@ -1,6 +1,6 @@
 logo: /images/Logos/NHGlogo.jpg
 links:
+  - title: About Us
+    collection: about-us
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/

@@ -14,7 +14,7 @@ specialty centres, and community-based ambulatory care centres.</p>
 towards building healthier and resilient communities, and Adding Years
 of Healthy Life to the people we serve.​</p>
 <p>Learn more about the <strong><a href="https://corp.nhg.com.sg/AboutNHG/Pages/Mission,-Vision-and-Values.aspx" rel="noopener nofollow" target="_blank"><u>National Healthcare Group (NHG)</u></a></strong> here.</p>
-<p></p>
+<p>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d28fdlln5qwqaz.amplifyapp.com/images/Content%20Images/NHG_Insts_Logo.png">

@@ -15,7 +15,7 @@ colors:
       color: "#00828d"
     - title: media-color-five
       color: "#00828d"
-description: A National Healthcare Group (NHG) site built with Isomer
+description: A NHG Health site built with Isomer
 permalink: none
 baseurl: ""
 exclude:

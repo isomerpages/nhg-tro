@@ -9,4 +9,8 @@ sections:
   - hero:
       title: NHG Translational Research Office (TRO)
       background: /images/Hero Banner/hero-banner.png
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---

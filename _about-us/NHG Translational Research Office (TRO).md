@@ -14,3 +14,8 @@ property at NHG Health. This enables the generation of new knowledge and
 insights towards better prevention, diagnosis, treatment and management
 of diseases, as well as health maintenance, in alignment with NHG's vision
 and mission.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TRO core functions" src="/images/4_functions.png">
+</div>
+<p></p>

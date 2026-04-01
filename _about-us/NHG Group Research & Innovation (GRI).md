@@ -93,3 +93,4 @@ Offices.</p>
 </div>
 <p></p>
 <p>Learn <strong><a href="https://gri.nhg.com.sg/" rel="noopener nofollow" target="_blank"><u>more about NHG Group Research &amp; Innovation (GRI) and what we do here</u></a></strong>.</p>
+<p>.</p>
